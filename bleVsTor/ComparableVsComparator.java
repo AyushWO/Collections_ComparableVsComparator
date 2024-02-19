@@ -31,7 +31,7 @@ public class ComparableVsComparator {
 		
 		
 		/*
-		Comparable
+		Comparable: for custom objects comparision using single sorting logic
 		
 		ArrayList<Emp> emps = new ArrayList<Emp>();
 		emps.add(new Emp("XYZ","123456789",12));
@@ -46,7 +46,7 @@ public class ComparableVsComparator {
 		
 		
 		
-//      Comparator
+//      Comparator: for custom objects comparision using multiple sorting logic
 		
 		ArrayList<Emp> emps = new ArrayList<Emp>();
 		emps.add(new Emp("XYZ","123456789",12));
